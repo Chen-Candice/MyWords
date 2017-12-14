@@ -7,5 +7,6 @@
   2. `kindle_unpack_v0815_plugin.zip` : Convert `azw3` to `epub`
 1. Install [Software `KindlePreviewerInstaller.pkg`](https://www.amazon.com/gp/feature.html?docId=1000765261), then open the `epub` file which is converted from `azw3`.
 2. Export to `mobi` from `KindlePreviewer`
-
-
+ 
+#### File Format：`azw3` --> `epub` --> `mobi` 
+#### Software:   `calibre` --> `KindlePreviewer` --> `KindleDevice`
